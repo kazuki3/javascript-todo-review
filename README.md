@@ -1,2 +1,2 @@
-# javascript-todo-review
+# javascript-todo
 Created with CodeSandbox
